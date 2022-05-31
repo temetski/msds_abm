@@ -1,0 +1,11 @@
+/.ipynb_checkpoints
+/__pycache__
+/bus.png
+/car.png
+/dataset.csv
+/dataset_safe_decel.csv
+/nagel_schreckenberg.py
+/queuing_model-Copy1.py
+/queuing_model.ipynb
+/queuing_model.py
+/simpy_tutorial.ipynb
